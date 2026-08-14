@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dODQS3+9gzA=",
+  "dgSpecHash": "LqMKaYOMxFU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\emeris\\source\\repos\\FirstDayOfChristmas\\FirstDayOfChristmas.csproj",
+  "projectFilePath": "C:\\Users\\emeris\\Documents\\GitHub\\FirstDayOfChristmas\\FirstDayOfChristmas\\FirstDayOfChristmas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emeris\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
   ],
