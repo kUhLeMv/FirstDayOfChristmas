@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FirstDayOfChristmas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
